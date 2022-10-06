@@ -1,0 +1,334 @@
+Test for Graph with 10 and number of edges 20
+Strongly_Connected_Components(LEDA) time: 5e-06
+Strongly_Connected_Components Boost(Custom) time: 1.6e-05
+C = 6 components_1D = 1
+
+Test for Graph with 6 and number of edges 10
+Strongly_Connected_Components(LEDA) time: 3e-06
+Strongly_Connected_Components Boost(Custom) time: 1.2e-05
+C = 2 components_1D = 1
+
+Test for Graph with 6 and number of edges 10
+Strongly_Connected_Components(LEDA) time: 3e-06
+Strongly_Connected_Components Boost(Custom) time: 1.1e-05
+C = 2 components_1D = 6
+
+Test for Graph with 6 and number of edges 10
+Strongly_Connected_Components(LEDA) time: 3e-06
+Strongly_Connected_Components Boost(Custom) time: 1e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 7 and number of edges 8
+Strongly_Connected_Components(LEDA) time: 3e-06
+Strongly_Connected_Components Boost(Custom) time: 9e-06
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 10 and number of edges 20
+Strongly_Connected_Components(LEDA) time: 4e-06
+Strongly_Connected_Components Boost(Custom) time: 1.6e-05
+C = 8 components_1D = 8
+Number of Strongly Connected components are: 8
+
+Test for Graph with 10000 and number of edges 15000
+Strongly_Connected_Components(LEDA) time: 0.001211
+Strongly_Connected_Components Boost(Custom) time: 0.005886
+C = 6685 components_1D = 6685
+Number of Strongly Connected components are: 6685
+
+Test for Graph with 50000 and number of edges 100000
+Strongly_Connected_Components(LEDA) time: 0.019448
+Strongly_Connected_Components Boost(Custom) time: 0.062143
+C = 18320 components_1D = 18320
+Number of Strongly Connected components are: 18320
+
+Test for Graph with 500000 and number of edges 600000
+Strongly_Connected_Components(LEDA) time: 0.2164
+Strongly_Connected_Components Boost(Custom) time: 0.621204
+C = 451364 components_1D = 451364
+Number of Strongly Connected components are: 451364
+
+Test for Graph with 7 and number of edges 8
+Strongly_Connected_Components(LEDA) time: 4e-06
+Strongly_Connected_Components Boost(Custom) time: 1.2e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 6 and number of edges 10
+Strongly_Connected_Components(LEDA) time: 3e-06
+Strongly_Connected_Components Boost(Custom) time: 1e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 500000 and number of edges 700000
+Strongly_Connected_Components(LEDA) time: 0.212749
+Strongly_Connected_Components Boost(Custom) time: 0.867503
+C = 371012 components_1D = 371012
+Number of Strongly Connected components are: 371012
+
+Test for Graph with 500000 and number of edges 700000
+Strongly_Connected_Components(LEDA) time: 0.21717
+Strongly_Connected_Components Boost(Custom) time: 0.87709
+C = 369741 components_1D = 369741
+Number of Strongly Connected components are: 369741
+
+
+Test for Graph with 500000 and number of edges 1000000
+Strongly_Connected_Components(LEDA) time: 0
+
+Test for Graph with 500000 and number of edges 900000
+Strongly_Connected_Components(LEDA) time: 0
+
+Test for Graph with 500000 and number of edges 750000
+Strongly_Connected_Components(LEDA) time: 0
+Strongly_Connected_Components Boost(Custom) time: 0.973073
+Number of Strongly Connected components are: 330027
+
+Test for Graph with 500000 and number of edges 800000
+Strongly_Connected_Components(LEDA) time: 0
+Strongly_Connected_Components Boost(Custom) time: 0.941423
+Number of Strongly Connected components are: 294185
+
+
+Test for Graph with 500000 and number of edges 900000
+Strongly_Connected_Components(LEDA) time: 0
+
+Test for Graph with 500000 and number of edges 850000
+Strongly_Connected_Components(LEDA) time: 0
+
+Test for Graph with 500000 and number of edges 840000
+Strongly_Connected_Components(LEDA) time: 0
+
+Test for Graph with 500000 and number of edges 820000
+Strongly_Connected_Components(LEDA) time: 0
+
+Test for Graph with 500000 and number of edges 740000
+Strongly_Connected_Components(LEDA) time: 0.260153
+Strongly_Connected_Components Boost(Custom) time: 0.882111
+C = 339172 components_1D = 339172
+Number of Strongly Connected components are: 339172
+
+Test for Graph with 500000 and number of edges 740001
+Strongly_Connected_Components(LEDA) time: 0.25839
+
+Test for Graph with 500000 and number of edges 740100
+Strongly_Connected_Components(LEDA) time: 0.226577
+
+Test for Graph with 500000 and number of edges 740900
+Strongly_Connected_Components(LEDA) time: 0.276228
+
+Test for Graph with 500000 and number of edges 740999
+Strongly_Connected_Components(LEDA) time: 0.274587
+
+Test for Graph with 500000 and number of edges 741000
+Strongly_Connected_Components(LEDA) time: 0.23602
+
+Test for Graph with 500000 and number of edges 741200
+Strongly_Connected_Components(LEDA) time: 0.219878
+
+Test for Graph with 500000 and number of edges 741300
+Strongly_Connected_Components(LEDA) time: 0.291277
+
+Test for Graph with 500000 and number of edges 741340
+Strongly_Connected_Components(LEDA) time: 0.225116
+
+Test for Graph with 500000 and number of edges 741341
+Strongly_Connected_Components(LEDA) time: 0.218369
+
+Test for Graph with 500000 and number of edges 741342
+Strongly_Connected_Components(LEDA) time: 0.214099
+Strongly_Connected_Components Boost(Custom) time: 0.913185
+C = 336887 components_1D = 336887
+Number of Strongly Connected components are: 336887
+
+
+Test for Graph with 6 and number of edges 10
+Strongly_Connected_Components(LEDA) time: 3e-06
+Strongly_Connected_Components Boost(Custom) time: 1.6e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 500000 and number of edges 741342
+Strongly_Connected_Components(LEDA) time: 0.283325
+Strongly_Connected_Components Boost(Custom) time: 0.805987
+C = 337577 components_1D = 337577
+Number of Strongly Connected components are: 337577
+
+
+Test for Graph with 6 and number of edges 10
+Strongly_Connected_Components(LEDA) time: 1.5e-05
+Strongly_Connected_Components Boost(Custom) time: 1.8e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 10000 and number of edges 15000
+Strongly_Connected_Components(LEDA) time: 0.001426
+Strongly_Connected_Components Boost(Custom) time: 0.006365
+C = 6481 components_1D = 6481
+Number of Strongly Connected components are: 6481
+
+Test for Graph with 500000 and number of edges 500000
+Strongly_Connected_Components(LEDA) time: 0.161753
+Strongly_Connected_Components Boost(Custom) time: 0.521823
+C = 499718 components_1D = 499718
+Number of Strongly Connected components are: 499718
+
+Test for Graph with 50000 and number of edges 500000
+Strongly_Connected_Components(LEDA) time: 0.045872
+Strongly_Connected_Components Boost(Custom) time: 0.176207
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 100000 and number of edges 300000
+Strongly_Connected_Components(LEDA) time: 0.062288
+Strongly_Connected_Components Boost(Custom) time: 0.200323
+C = 11616 components_1D = 11616
+Number of Strongly Connected components are: 11616
+
+Test for Graph with 10000 and number of edges 92103
+Strongly_Connected_Components(LEDA) time: 0.005108
+Strongly_Connected_Components Boost(Custom) time: 0.020335
+C = 4 components_1D = 4
+Number of Strongly Connected components are: 4
+
+Test for Graph with 10000 and number of edges 92103
+Strongly_Connected_Components(LEDA) time: 0.006033
+Strongly_Connected_Components Boost(Custom) time: 0.020987
+C = 3 components_1D = 3
+Number of Strongly Connected components are: 3
+
+Test for Graph with 10000 and number of edges 184206
+Strongly_Connected_Components(LEDA) time: 0.009136
+Strongly_Connected_Components Boost(Custom) time: 0.035269
+C = 1 components_1D = 1
+Number of Strongly Connected components are: 1
+
+Test for Graph with 10000 and number of edges 20000
+Strongly_Connected_Components(LEDA) time: 0.001654
+Strongly_Connected_Components Boost(Custom) time: 0.006711
+C = 3649 components_1D = 3649
+Number of Strongly Connected components are: 3649
+
+Test for Graph with 10000 and number of edges 5000
+Strongly_Connected_Components(LEDA) time: 0.000494
+Strongly_Connected_Components Boost(Custom) time: 0.003206
+C = 10000 components_1D = 10000
+Number of Strongly Connected components are: 10000
+
+Test for Graph with 10 and number of edges 51
+Strongly_Connected_Components(LEDA) time: 5e-06
+Strongly_Connected_Components Boost(Custom) time: 2.5e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 100 and number of edges 1009
+Strongly_Connected_Components(LEDA) time: 1.7e-05
+Strongly_Connected_Components Boost(Custom) time: 0.000149
+C = 10 components_1D = 10
+Number of Strongly Connected components are: 10
+
+Test for Graph with 10000 and number of edges 92103
+Strongly_Connected_Components(LEDA) time: 0.005004
+Strongly_Connected_Components Boost(Custom) time: 0.019675
+C = 3 components_1D = 3
+Number of Strongly Connected components are: 3
+
+Test for Graph with 100 and number of edges 5001
+Strongly_Connected_Components(LEDA) time: 5.2e-05
+Strongly_Connected_Components Boost(Custom) time: 0.000502
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 10 and number of edges 51
+Strongly_Connected_Components(LEDA) time: 6e-06
+Strongly_Connected_Components Boost(Custom) time: 2.5e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 10000 and number of edges 92103
+Strongly_Connected_Components(LEDA) time: 0.006238
+Strongly_Connected_Components Boost(Custom) time: 0.022848
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 10 and number of edges 51
+Strongly_Connected_Components(LEDA) time: 1.6e-05
+Strongly_Connected_Components Boost(Custom) time: 1.8e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 10000 and number of edges 92103
+Strongly_Connected_Components(LEDA) time: 0.005308
+Strongly_Connected_Components Boost(Custom) time: 0.020073
+C = 1 components_1D = 1
+Number of Strongly Connected components are: 1
+
+Test for Graph with 50000 and number of edges 540988
+Strongly_Connected_Components(LEDA) time: 0.051187
+Strongly_Connected_Components Boost(Custom) time: 0.195131
+C = 6 components_1D = 6
+Number of Strongly Connected components are: 6
+
+Test for Graph with 10000 and number of edges 92103
+Strongly_Connected_Components(LEDA) time: 0.004542
+Strongly_Connected_Components Boost(Custom) time: 0.019117
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 10000 and number of edges 184206
+Strongly_Connected_Components(LEDA) time: 0.008446
+Strongly_Connected_Components Boost(Custom) time: 0.033438
+C = 1 components_1D = 1
+Number of Strongly Connected components are: 1
+
+Test for Graph with 10000 and number of edges 5000
+Strongly_Connected_Components(LEDA) time: 0.000472
+Strongly_Connected_Components Boost(Custom) time: 0.003509
+C = 10000 components_1D = 10000
+Number of Strongly Connected components are: 10000
+
+Test for Graph with 10 and number of edges 51
+Strongly_Connected_Components(LEDA) time: 6e-06
+Strongly_Connected_Components Boost(Custom) time: 2.4e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 10000 and number of edges 10000009
+Strongly_Connected_Components(LEDA) time: 0.331696
+Test for Graph with 10 and number of edges 41
+Strongly_Connected_Components(LEDA) time: 6e-06
+Strongly_Connected_Components Boost(Custom) time: 1.9e-05
+C = 2 components_1D = 2
+Number of Strongly Connected components are: 2
+
+Test for Graph with 1000 and number of edges 10099
+Strongly_Connected_Components(LEDA) time: 0.000136
+Strongly_Connected_Components Boost(Custom) time: 0.001136
+C = 100 components_1D = 100
+Number of Strongly Connected components are: 100
+
+Test for Graph with 10000 and number of edges 1000099
+Strongly_Connected_Components(LEDA) time: 0.021427
+Strongly_Connected_Components Boost(Custom) time: 0.089358
+C = 100 components_1D = 100
+Number of Strongly Connected components are: 100
+
+Test for Graph with 1000 and number of edges 10099
+Strongly_Connected_Components(LEDA) time: 0.000148
+Strongly_Connected_Components Boost(Custom) time: 0.00119
+C = 100 components_1D = 100
+Number of Strongly Connected components are: 100
+
+Test for Graph with 7000 and number of edges 700069
+Strongly_Connected_Components(LEDA) time: 0.013935
+Strongly_Connected_Components Boost(Custom) time: 0.075455
+C = 70 components_1D = 70
+Number of Strongly Connected components are: 70
+
+Test for Graph with 7000 and number of edges 700069
+Strongly_Connected_Components(LEDA) time: 0.016131
+Strongly_Connected_Components Boost(Custom) time: 0.061078
+C = 70 components_1D = 70
+Number of Strongly Connected components are: 70
+
